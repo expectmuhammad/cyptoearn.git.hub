@@ -1,4 +1,4 @@
-# cyptoearn.git.io
+# cryptoearn.github.io
 <p align="center">
   <img src=https://github.com/expectmuhammad/cyptoearn.git.hub.git-/blob/main/meg/1.png" alt="animated" />
 </p>
